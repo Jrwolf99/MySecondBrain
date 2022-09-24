@@ -4,7 +4,7 @@ There are plenty of programming languages. I am familiar with these:
 
 - C++
 - JavaScript
-- Java
+- [[Java]]
 - Object Object Oriented Programming languages
 
 

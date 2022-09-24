@@ -7,3 +7,6 @@ Many times, these basic ideas are structured into [[programming languages]].
 Some common programming concepts:
 	- [[Design Patterns]]
 	- [[Refactoring]]
+
+
+In order to get a job, you need to pass the ***[[PROGRAMMING INTERVIEW]]!!!***
