@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a60c6c577eb7f3bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4ef1a05d47e635",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f868c96ae3caf397",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83dff25cf8a3851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66877f9dca63479e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b350f3708216a7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "416545ac7c265f25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b58c3378eb443c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f37b6036b89e71b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f18145c75c4052b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf10b4427782ea6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdb385a761b38509",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41430ffe7e542ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fd4ef1a05d47e635",
+  "lastOpenFiles": [
+    "Programming.md",
+    "Sequential note taking.md",
+    "Refactoring.md",
+    "ReadMe.md.md",
+    "programming languages.md",
+    "Obsidian.md",
+    "Design Patterns.md",
+    "Conceptual Note Taking.md",
+    "coding.md",
+    "2022-09-24.md"
+  ]
+}
