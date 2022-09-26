@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # Programming Languages
 
 There are plenty of programming languages. I am familiar with these:

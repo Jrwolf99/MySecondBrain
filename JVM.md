@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # JVM
 
 JVM, or Java Virtual Machine, is a machine that is on a platform that wants to run the java bytecode. This JVM translates the Java bytecode into the platforms machine language.

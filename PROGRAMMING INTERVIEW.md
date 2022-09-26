@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # The Programming Interview
 
 See [[Interview]] for details on normal interviewing. This page focuses on the technical parts of the interviews. 

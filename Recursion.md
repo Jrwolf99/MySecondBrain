@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # Recursion
 
 [Recursion](https://www.w3schools.com/java/java_recursion.asp) is used in programming to make a function call itself. this provides a way to break complicated problems down into simple problems which are easier to solve. 

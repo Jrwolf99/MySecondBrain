@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95fea32e3a94def2",
+        "id": "412e52ae14a15927",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadMe.md.md",
+            "file": "Heap Memory.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#notprocessed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,35 +56,61 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9c7a8baf7e51bd12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 319.5
   },
   "right": {
     "id": "b58c3378eb443c82",
     "type": "split",
     "children": [
       {
-        "id": "5f37b6036b89e71b",
+        "id": "47ff7a655b4bfc66",
         "type": "tabs",
         "children": [
           {
-            "id": "5f18145c75c4052b",
+            "id": "5c1d1925bff4249d",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "localgraph",
               "state": {
-                "file": "ReadMe.md.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Heap Memory.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.40614967113364747,
+                  "close": false
+                }
               }
             }
           },
@@ -94,9 +120,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Heap Memory.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f18145c75c4052b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Heap Memory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md.md"
+                "file": "Heap Memory.md"
               }
             }
           }
@@ -125,20 +168,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 457.5,
     "collapsed": true
   },
-  "active": "95fea32e3a94def2",
+  "active": "412e52ae14a15927",
   "lastOpenFiles": [
-    "Breadth First Search.md",
-    "templates/newnote.md",
-    "Leetcode.md",
-    "Recursion.md",
+    "Programming.md",
+    "Song Writing.md",
+    "Music.md",
+    "data structures.md",
     "Hash Maps.md",
-    "algorithms.md",
-    "Code Smells.md",
-    "Refactoring.md",
-    "Sequential note taking.md",
-    "statically typed.md"
+    "Heaps.md",
+    "binary tree.md",
+    "Design Patterns.md",
+    "programming languages.md",
+    "templates/data structure.md"
   ]
 }

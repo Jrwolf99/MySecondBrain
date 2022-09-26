@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # Java
 
 **Java** is an object oriented programming languages that was first released in 1995. It's foundation was based upon it being well suited for the Web.
@@ -17,9 +21,7 @@ When Java was built, 5 things were kept in mind:
 	4. execute with high performance
 	5. [[interpreted]], [[threaded]], and [[dynamic]]
 
-Java being dynamic shouldn't confuse you with it being [[statically typed]]
-
-
+Java is [[Statically Typed]]
 
 
 source: [java wiki](https://en.wikipedia.org/wiki/Java_(programming_language))

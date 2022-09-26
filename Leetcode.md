@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # Leetcode
 
 So you wanna Leetcode, huh?

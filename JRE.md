@@ -1,3 +1,7 @@
+---
+tags:
+- programming
+---
 # JRE
 
 The Java Runtime Environment (JRE) provides the minimum requirements for executing a java application.
