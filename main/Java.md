@@ -21,7 +21,7 @@ When Java was built, 5 things were kept in mind:
 	4. execute with high performance
 	5. [[interpreted]], [[threaded]], and [[dynamic]]
 
-Java is [[Statically Typed]]
+Java is [[statically typed]]
 
 
 source: [java wiki](https://en.wikipedia.org/wiki/Java_(programming_language))

@@ -11,15 +11,15 @@ Many times, these basic ideas are structured into [[programming languages]].
 
 Some common programming concepts:
 	- [[Design Patterns]]
-	- [[Refactoring]]
+	- [[main/Refactoring MOC]]
 
 
-In order to get a job, you need to pass the ***[[PROGRAMMING INTERVIEW]]!!!***
+In order to get a job, you need to pass the ***[[Programming Interview]]!!!***
 
 
 Over-arching topics that are involved in programming:
 - [[Memory]]
-- [[Statically Typed ]]vs. [[Dynamically Typed]]
-- [[Compiled]] vs [[Interpreted]]
+- [[statically typed ]]vs. [[Dynamically Typed]]
+- [[compiled]] vs [[interpreted]]
 
 

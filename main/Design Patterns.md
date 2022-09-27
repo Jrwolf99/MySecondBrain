@@ -5,7 +5,7 @@ tags:
 # Design Patterns
 
 
-In [[programming]], **design patterns** are used to organize the code into structures that many people can be familiar with. 
+In [[Programming MOC]], **design patterns** are used to organize the code into structures that many people can be familiar with. 
 
 Some common **design patterns**: 
 	- MVC

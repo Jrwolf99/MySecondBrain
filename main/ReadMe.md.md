@@ -2,7 +2,7 @@
 
 This is an obsidian vault designed to implement the idea of "[[Conceptual Note Taking]]" rather than the "[[Sequential note taking]]" style. 
 
-Start here: [[Programming]]
+Start here: [[Programming MOC]]
 
 
 ## The Golden Question

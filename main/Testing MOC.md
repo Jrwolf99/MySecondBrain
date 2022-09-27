@@ -7,7 +7,7 @@ tags:
 
 Testing is used in "Test-Driven Development" to ensure that your application works like it needs to. 
 
-Testing always needs to be done when you are [[Refactoring]]. 
+Testing always needs to be done when you are [[main/Refactoring MOC]]. 
 
 Kinds of testing:
 1. [[Unit Testing]]

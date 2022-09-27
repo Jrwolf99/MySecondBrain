@@ -1,24 +1,24 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#programming",
-      "color": {
-        "a": 1,
-        "rgb": 3160768
-      }
-    },
-    {
       "query": "tag:#notprocessed",
       "color": {
         "a": 1,
         "rgb": 12268853
+      }
+    },
+    {
+      "query": "tag:#programming",
+      "color": {
+        "a": 1,
+        "rgb": 3160768
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5433101722420997,
-  "close": true
+  "scale": 0.9541551846436019,
+  "close": false
 }

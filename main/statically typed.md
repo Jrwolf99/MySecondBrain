@@ -6,7 +6,7 @@ tags:
 
 A language is statically typed if the type of a variable is known at compile time.
 
-see [[Dynamically typed]]
+see [[Dynamically Typed]]
 
 Languages that are statically typed:
 * C

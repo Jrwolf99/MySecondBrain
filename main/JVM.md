@@ -18,4 +18,4 @@ This bytecode is had because it is much faster to interpret.
 
 **JVM** then, at the time of execution , interprets this bytecode into machine code line by line. 
 
-although considered [[interpreted]], java could use JIT(Just-in-Time) [compilation](/compiled).
+although considered [[interpreted]], java could use JIT(Just-in-Time) [compilation](compiled.md).

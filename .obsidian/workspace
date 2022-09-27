@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "412e52ae14a15927",
+        "id": "4842821b889bfe06",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Heap Memory.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notprocessed",
+                "query": "tag:#programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 174
   },
   "right": {
     "id": "b58c3378eb443c82",
@@ -85,7 +82,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Heap Memory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heap Memory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heap Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Heap Memory.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,17 +163,17 @@
     "width": 457.5,
     "collapsed": true
   },
-  "active": "412e52ae14a15927",
+  "active": "4842821b889bfe06",
   "lastOpenFiles": [
-    "Programming.md",
-    "Song Writing.md",
-    "Music.md",
-    "data structures.md",
-    "Hash Maps.md",
-    "Heaps.md",
-    "binary tree.md",
-    "Design Patterns.md",
-    "programming languages.md",
-    "templates/data structure.md"
+    "main/Refactoring MOC.md",
+    "main/Programming MOC.md",
+    "010 Software Engineering.md",
+    "000 Index.md",
+    "050 Health.md",
+    "040 German.md",
+    "030 Personal Knowledge Management.md",
+    "020 Music.md",
+    "templates/data structure.md",
+    "Refactoring MOC.md"
   ]
 }

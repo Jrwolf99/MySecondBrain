@@ -16,5 +16,5 @@ Do you have what it takes to solve Leetcode mediums and hards?
 - [ ] Solve [[Leetcode]] problems
 - [ ] Research and study up on the programming languages themselves
 - [ ] Write and create problem-solving and purpose driven projects
-- [ ] Understand "above and beyond concepts" like [[Refactoring]], [[Testing]], and [[Design Patterns]]
+- [ ] Understand "above and beyond concepts" like [[main/Refactoring MOC]], [[Testing MOC]], and [[Design Patterns]]
 
