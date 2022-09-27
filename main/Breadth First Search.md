@@ -9,7 +9,7 @@ It has a common brother, [[Depth First Search]] (DFS).
 Most common graph traversal. It can be implemented using a [[queue]].
 using BFS, you start at a "root node", and then traverse the [[graph]] 
 
-#### the algorithm
+#### the [[algorithm]]
 Steps:
 	1. Pick a node and enqueue all its child nodes into a queue.
 	2. Dequeue a node from the top of the queue, mark as visited, then enqueue all its child nodes into the queue.

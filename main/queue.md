@@ -4,9 +4,16 @@ tags:
 ---
 # queue
 
-queue is a data structure (see [[data structures]]).
+queue is a [[data structure MOC]] (see [[data structure MOC]]). and an [[interface]] in [[Java MOC]]
 
-#### the data structure 
+
+As an interface in Java, some classes that use this Queue interface are:
+- [[PriorityQueue]] class
+- The [[Deque]] Interface
+	- [[LinkedList]] class
+
+
+#### the [[data structure MOC]] 
 uses FIFO (First In First Out).
 
 ![[Pasted image 20220924153053.png]]
@@ -22,7 +29,7 @@ uses FIFO (First In First Out).
 #### code example
 
 * in Java, a "java.util.Queue" is a subtype of the java.util.Collection interface.
-* most commonly, Queue implementations are LinkedLists, ArrayBlockingQueue, and PriorityQueue.
+* most commonly, Queue implementations are [[LinkedList]]s, ArrayBlockingQueue, and [[PriorityQueue]].
 
 ```java
 	Queue<String> queue = new LinkedList<>();

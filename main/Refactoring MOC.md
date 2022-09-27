@@ -10,4 +10,4 @@ Many cocepts in refactoring are arranged in the textbook ***Refactoring*** by Ma
 
 
 Some important concepts in refactoring:
-[[Code Smells]]
+[[Code Smell]]

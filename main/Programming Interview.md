@@ -13,8 +13,8 @@ Can you problem solve?
 Do you have what it takes to solve Leetcode mediums and hards?
 
 ### A method to get good at the programming interview
-- [ ] Solve [[Leetcode]] problems
+- [ ] Solve [[Leetcode MOC]] problems
 - [ ] Research and study up on the programming languages themselves
 - [ ] Write and create problem-solving and purpose driven projects
-- [ ] Understand "above and beyond concepts" like [[main/Refactoring MOC]], [[Testing MOC]], and [[Design Patterns]]
+- [ ] Understand "above and beyond concepts" like [[Refactoring MOC]], [[Testing MOC]], and [[Design Pattern]]
 

@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,27 +11,41 @@
       "query": "tag:#notprocessed",
       "color": {
         "a": 1,
-        "rgb": 12268853
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "file:(MOC)",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
       }
     },
     {
       "query": "tag:#programming",
       "color": {
         "a": 1,
-        "rgb": 3160768
+        "rgb": 6058198
+      }
+    },
+    {
+      "query": "tag:#index",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.92986193586698,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.20249406175772,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.9541551846436019,
+  "linkDistance": 248,
+  "scale": 0.9367960617092164,
   "close": false
 }

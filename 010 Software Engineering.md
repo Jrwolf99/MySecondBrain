@@ -10,3 +10,5 @@ tags:
 - [[Programming MOC]]
 - [[Refactoring MOC]]
 - [[Testing MOC]]
+- [[Leetcode MOC]]
+- [[Java MOC]]

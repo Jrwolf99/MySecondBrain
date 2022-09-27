@@ -3,15 +3,15 @@ tags:
 - programming
 - notprocessed
 ---
-# {{title}}
+# Stack
 
-{{title}} is a
-
-
+Stack extends Vector
 
 
 
-#### the data structure
+
+
+#### the [[data structure MOC]]
 
 
 

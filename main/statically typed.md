@@ -11,7 +11,7 @@ see [[Dynamically Typed]]
 Languages that are statically typed:
 * C
 * C++
-* [[Java]]
+* [[Java MOC]]
 * Rust
 * Go
 * Scala

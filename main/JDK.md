@@ -6,7 +6,7 @@ tags:
 
 
 
-The JDK includes everything to develop java and run java.
+The JDK includes everything to develop [[Java MOC]] and run java.
 
 
 

@@ -4,10 +4,10 @@ tags:
 ---
 # Binary Search
 
-Binary Search is an algorithm (see [[algorithms]]) that is used to search a sorted array by **repeatedly dividing the search intervals in half**. This means that it should reduce the time to O(Log n).
+Binary Search is an [[algorithm]] (see [[algorithm]]) that is used to search a sorted array by **repeatedly dividing the search intervals in half**. This means that it should reduce the time to O(Log n).
 
 
-#### the algorithm
+#### the [[algorithm]]
 -   Begin with the mid element of the whole array as a search key.
 -   If the value of the search key is equal to the item then return an index of the search key.
 -   Or if the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half.

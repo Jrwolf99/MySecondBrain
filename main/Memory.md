@@ -11,6 +11,6 @@ There are plenty of ways that they do this, but here are some common ways:
 - [[RAM]]
 
 
-In [[programming languages]], there are a couple ways that they access memory:
+In [[programming language]], there are a couple ways that they access memory:
 1. through [[statically typed]] data types
 2. through [[Dynamically Typed]] 

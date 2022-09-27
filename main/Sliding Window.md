@@ -4,7 +4,7 @@ tags:
 ---
 # Sliding Window
 
-Sliding Window is a "technique" used to make algorithms. This is common in solving leetcode style problem
+Sliding Window is a "technique" used to make [[algorithm]]s. This is common in solving leetcode style problem
 
 
 
@@ -84,4 +84,4 @@ const getSum = (arr, start, end) => {
 
 #### resources
 
-Adam Zerner explains it really well [here](https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples)
+Adam Zerner explains it really well [here](https://stackoverflow.com/questions/8269916/what-is-sliding-window-[[algorithm]]-examples)

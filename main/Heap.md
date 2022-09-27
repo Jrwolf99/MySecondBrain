@@ -4,8 +4,8 @@ tags:
 ---
 # Heaps
 
-#### the data structure
-Heap is a data structure (not to be confused with [[Heap Memory]]), where a heap is a "complete [[binary tree]]" that satisfies the heap property:
+#### the [[data structure MOC]]
+Heap is a [[data structure MOC]] (not to be confused with [[Heap Memory]]), where a heap is a "complete [[binary tree]]" that satisfies the heap property:
 	- Max Heap Property: Any given node is always greater than it's child node(s) and the key of the root node is the largest.
 	- Min Heap Property: Any givien node is always smaller than it's child node(s) and the key of the root node is the smallest.
 

@@ -4,7 +4,7 @@ tags:
 ---
 # JRE
 
-The Java Runtime Environment (JRE) provides the minimum requirements for executing a java application.
+The Java Runtime Environment (JRE) provides the minimum requirements for executing a [[Java MOC]] application.
 
 JRE is an installation package that provides an environment to ONLY RUN, (not develop) the java program or app onto your machine. 
 

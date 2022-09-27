@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4842821b889bfe06",
+        "id": "46fc64013a3210d5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "main/Leetcode MOC.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -19,9 +23,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b83dff25cf8a3851",
+        "id": "f8ddc93f6bb2b41c",
         "type": "tabs",
+        "dimension": 35.526315789473685,
         "children": [
+          {
+            "id": "5c1d1925bff4249d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "main/Leetcode MOC.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3839096160545295,
+                  "close": true
+                }
+              }
+            }
+          },
           {
             "id": "66877f9dca63479e",
             "type": "leaf",
@@ -36,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "\"hash maps\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,6 +94,51 @@
             }
           },
           {
+            "id": "650b0ad8e2c947cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0bf65c7a95c069cf",
+        "type": "tabs",
+        "dimension": 64.47368421052632,
+        "children": [
+          {
+            "id": "cf10b4427782ea6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main/Leetcode MOC.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f18145c75c4052b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main/Leetcode MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
             "id": "9c7a8baf7e51bd12",
             "type": "leaf",
             "state": {
@@ -66,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174
+    "width": 276.5
   },
   "right": {
     "id": "b58c3378eb443c82",
@@ -76,67 +161,6 @@
         "id": "47ff7a655b4bfc66",
         "type": "tabs",
         "children": [
-          {
-            "id": "5c1d1925bff4249d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.40614967113364747,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "cf10b4427782ea6e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5f18145c75c4052b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "bdb385a761b38509",
             "type": "leaf",
@@ -153,27 +177,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/Leetcode MOC.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 457.5,
+    "width": 398.5,
     "collapsed": true
   },
-  "active": "4842821b889bfe06",
+  "active": "46fc64013a3210d5",
   "lastOpenFiles": [
-    "main/Refactoring MOC.md",
-    "main/Programming MOC.md",
-    "010 Software Engineering.md",
-    "000 Index.md",
-    "050 Health.md",
-    "040 German.md",
-    "030 Personal Knowledge Management.md",
-    "020 Music.md",
-    "templates/data structure.md",
-    "Refactoring MOC.md"
+    "main/data structure MOC.md",
+    "main/Sliding Window.md",
+    "Encapsulation.md",
+    "Object Oriented Programming MOC.md",
+    "main/algorithm.md",
+    "Array.md",
+    "main/Design Pattern.md",
+    "main/programming language.md",
+    "main/Code Smell.md",
+    "Generic.md"
   ]
 }
